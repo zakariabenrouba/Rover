@@ -1,4 +1,4 @@
-##Mars Rover Kata Solution
+#Mars Rover Kata Solution
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
 This plateau, which is curiously rectangular, must be navigated by the
